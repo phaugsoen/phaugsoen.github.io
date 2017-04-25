@@ -1,0 +1,8 @@
+title: Haugsoen App Development
+description: Indie iOS Developer
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
