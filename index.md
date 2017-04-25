@@ -1,7 +1,9 @@
-### Nothin' much yet
-But soon there will be some interesting stuff here, promise!
+### Soon to be launched
+Will be launched later this year, borth for iOS and Android
 
-Nu skall vi se....
+1. Find buyers or renters totally free
+2. Focus on Addis Ababa
+3. 
 
 
 
